@@ -4,7 +4,7 @@
 
 # Descripción general del proyecto
 
-La aplicacion consinste en una simulacion de exchange, un portal donde los usuarios podran comprar, vender, enviar, recibir e intercambiar unas cryptomonedas por otras.
+La aplicacion consinste en un exchange, un portal donde los usuarios podran comprar, vender, enviar, recibir e intercambiar unas cryptomonedas por otras.
 
 ## Funcionalidad principal de la aplicación
 
@@ -23,4 +23,4 @@ API de Binance para obtener el valor de las cryptomonedas a tiempo real.
 
 API de Tradingview para generar graficas de velas japonesas de diferentes temporalidades y de la cryptomoneda deseada.
 
-API de Stripe para simulacion de pagos con tarjetas de crédito
+API de Stripe para simulación de pagos con tarjetas de crédito

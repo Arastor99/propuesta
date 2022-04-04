@@ -1,4 +1,4 @@
-% Exchange «EBOLA»
+% Exchange «Cryptoworld»
 %Álvaro Galo Tutor
 % Curso 2021/22
 
